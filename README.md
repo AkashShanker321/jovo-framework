@@ -22,7 +22,7 @@ app.setHandler({
     },
 
     HelloWorldIntent() {
-        this.ask('Hello World! What\'s your name?', 'Please tell me your name.');
+        this.ask('Hello World! What\'s your name?', 'Please tell your name.');
     },
 
     MyNameIsIntent() {
